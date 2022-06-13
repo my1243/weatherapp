@@ -1,8 +1,7 @@
-<div align="center">
-  <br>
-  <h1>Weather App</h1>
-</div>
-<br>
+
+# Weather App
+
+React app made using tailwind CSS. It helps to track Weather forecasts and current condition in real time.
 
 <p align="center">
   <a href="https://reactjs.org/">
@@ -18,3 +17,43 @@
     <img src="https://img.shields.io/badge/API-weatherapi-yellow" alt="ruby version">
   </a>
 </p>
+
+## Features
+
+- Light/dark mode toggle
+- Fully Responsive
+- Realtime Forecast
+- Shows humidity, UV Index, Air quality, etc...
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
