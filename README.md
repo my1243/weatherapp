@@ -56,5 +56,6 @@ Start the server
 ## Screenshots
 
 ![App Screenshot](./Screenshot_light.jpg)
+
 ![App Screenshot](./Screenshot_dark.jpg)
 
