@@ -7,6 +7,28 @@
   pointer-events: none;
 }
 
+.scrollmih::-webkit-scrollbar{
+    width: 10px;
+    height: 5px;
+    margin: 8px;
+}
+
+.scrollmih::-webkit-scrollbar-corner{
+    border-radius: 10px;
+}
+
+.scrollmih::-webkit-scrollbar-track {
+    background: #27272a;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.scrollmih::-webkit-scrollbar-thumb {
+    background: #71717a;
+    border-radius: 10px;
+  }
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
