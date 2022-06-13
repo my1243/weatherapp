@@ -55,5 +55,6 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./Screenshot_light.jpg)
+![App Screenshot](./Screenshot_dark.jpg)
 
